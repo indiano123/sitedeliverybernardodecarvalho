@@ -1,0 +1,19 @@
+body{
+    background-color: #FFC178;
+}
+li{
+    
+    display: flex;
+    font-size: 50px;
+}
+
+p{
+    font-size: 25px;
+}
+a{
+    text-decoration: 0;
+    color: black;
+    background-color: #CC9C64;
+    border-radius: 5%;
+    text-transform: uppercase;
+}
